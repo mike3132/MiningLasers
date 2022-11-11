@@ -1,0 +1,77 @@
+#                                                 🖥🖥🖥🖥🖥🖥🖥🖥🖥🖥🖥🖥🖥🖥
+#                                                   💻Mining Lasers Config💻
+#                                                   🔥Coded By Mike3132🔥
+#                                                  ❤Mining Lasers Config❤
+#                                                 🖥🖥🖥🖥🖥🖥🖥🖥🖥🖥🖥🖥🖥🖥
+
+#📝📝📝📝Permissions📝📝📝📝📝
+#Laser.Give - Access to give themselves lasers. The plugin will give you the correct syntax
+#Laser.Reload - Access to reload the plugin
+#Laser.Version - Access to showing plugin version
+#📝📝📝📝Permissions📝📝📝📝📝
+
+#✍✍✍✍You can Modify the following how you wish✍✍✍✍✍
+#Plugin Prefix // This shows before all chat messages
+Prefix: '&4&lMining &c&lLasers &7> '
+
+#Diamond Fortune Name
+Diamond_Fortune_Name: '&6&lDiamond Mining Laser &d(Fortune)'
+#Daimond Fortune Lore
+Diamond_Fortune_Lore:
+  - '&a&lRight click to shoot'
+  - '&2&lBreaks any blocks the laser touches'
+  - '&e&lThis laser cannot break obsidian'
+
+
+#Diamond Fortune Enchants (These must be in all capital letters)
+Diamond_Fortune_Enchants:
+  - 'UNBREAKING:3'
+  - 'EFFICIENCY:5'
+  - 'FORTUNE:3'
+
+#Diamond Silk Name
+Diamond_Silk_Name: '&6&lDiamond Mining Laser &d(Silk)'
+#Daimond Silk Lore
+Diamond_Silk_Lore:
+  - '&a&lRight click to shoot'
+  - '&2&lBreaks any blocks the laser touches'
+  - '&d&lThis laser is silk touch'
+  - '&e&lThis laser cannot break obsidian'
+
+#Diamond Silk Enchantments (These must be in all capital letters)
+Diamond_Silk_Enchants:
+  - 'UNBREAKING:3'
+  - 'EFFICIENCY:5'
+  - 'SILK_TOUCH:1'
+
+
+#Netherite Fortune Name
+Netherite_Fortune_Name: '&e&lNetherite Mining Laser &d(Fortune)'
+#Netherite Fortune Lore
+Netherite_Fortune_Lore:
+  - '&a&lRight click to shoot'
+  - '&2&lBreaks any blocks the laser touches'
+
+#Netherite Fortune Enchants (These must be in all capital letters)
+Netherite_Fortune_Enchants:
+  - 'UNBREAKING:3'
+  - 'EFFICIENCY:5'
+  - 'FORTUNE:3'
+
+
+#Netherite Silk Name
+Netherite_Silk_Name: '&e&lNetherite Mining Laser &d(Silk)'
+#Netherite Silk Lore
+Netherite_Silk_Lore:
+  - '&a&lRight click to shoot'
+  - '&2&lBreaks any blocks the laser touches'
+  - '&d&lThis laser is silk touch'
+
+#Netherite Silk Enchantments (These must be in all capital letters)
+Netherite_Silk_Enchants:
+  - 'UNBREAKING:3'
+  - 'EFFICIENCY:5'
+  - 'SILK_TOUCH:1'
+
+
+#👋👋👋👋 END OF CONFIG 👋👋👋👋👋

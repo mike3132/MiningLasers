@@ -1,0 +1,14 @@
+name: MiningLasers
+version: '${project.version}'
+main: me.mike3132.mininglasers.Main
+api-version: 1.19
+authors: [ Mike3132 ]
+description: Mining Laser plugin (Ragnarok Network)
+website: https://ragnarok.icu
+commands:
+  Laser:
+    description: Gives you the laser item
+    permission: Laser.Give
+  Lasers:
+    description: Reloads plugin config
+    permission: Laser.Reload
